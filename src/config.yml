@@ -1,6 +1,8 @@
-main-server: true
+options:
+  login-server: true
+messages:
 mysql:
+  host:
   database:
   user:
   password:
-  port:
