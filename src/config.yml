@@ -1,0 +1,6 @@
+main-server: true
+mysql:
+  database:
+  user:
+  password:
+  port:
